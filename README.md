@@ -1,3 +1,3 @@
 Tämä on DevOps kurssin harjoitusta varten tehty repositorio
 
-Uusi branchi: uusibranchi
+uusi branch nimi on newbranch
